@@ -35,7 +35,7 @@ exemplo recente: Jancer e a análise do prontuário e-SUS/ [análises do NEXO Jo
 [exemplo coronacidades](https://github.com/ImpulsoGov/coronacidades-datasource/settings/branches)<br>
 
 ## O básico
-[github sem código](https://guides.github.com/activities/hello-world/)
+[github sem código](https://guides.github.com/activities/hello-world/)<br>
 [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)<br>
 [Dicionário Git e GitHub](https://gist.github.com/victorsenam/8580499)<br>
 [Aprenda Git do básico ao avançado](https://comandosgit.github.io/)
@@ -71,9 +71,9 @@ Como temos branches protegidas essa é única maneira de se atualizar em live as
 
   2. Adione uma foto qualquer a sua pasta!
 
-  3. Dê um fork nessa pasta (depois você pode excluir é só para aprender a fazer).
+  3. Crie um PR para atualizar a master com a sua branch.
   
-  4. Crie um PR para atualizar a master com a sua branch.
+  4. Dê um fork nessa pasta (depois você pode excluir é só para aprender a fazer). 
 </details>
 
 
