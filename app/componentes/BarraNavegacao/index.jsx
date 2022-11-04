@@ -7,7 +7,6 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 
 export default function BarraNavegacao() {
   return (
-    <div class="row" style={{ width: '100%' }}>
     <Navbar bg="light" expand="lg">
       <Container>
         <Navbar.Brand href="/">
@@ -20,7 +19,7 @@ export default function BarraNavegacao() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-              <Nav.Link href="/estabelecimentos">Fluxos de desenvolvimento</Nav.Link>
+              <Nav.Link href="/fluxo-desenvolvimento">Fluxos de desenvolvimento</Nav.Link>
               <Nav.Link href="/etls">ETLs</Nav.Link>
               <NavDropdown title="Desempenho aplicações" id="basic-nav-dropdown">
                 <NavDropdown.Item href="/monitor-sisab">Monitor SISAB</NavDropdown.Item>
@@ -33,6 +32,5 @@ export default function BarraNavegacao() {
         </Navbar.Collapse>
     </Container>
     </Navbar>
-  </div>
   )
 }
